@@ -7,3 +7,6 @@
 1. Modern and customizable theme settings;
 1. Clean interface with multi-platform support (Windows, macOS);
 1. Low resource usage, high efficiency, and secure operation.
+
+#### Preview
+[https://gitee.com/gitsvn/ssh-terminal-pro/raw/master/logo2en.png]https://gitee.com/gitsvn/ssh-terminal-pro/raw/master/logo2en.png
