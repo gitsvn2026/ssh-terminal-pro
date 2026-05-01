@@ -9,4 +9,4 @@
 1. Low resource usage, high efficiency, and secure operation.
 
 #### Preview
-[https://gitee.com/gitsvn/ssh-terminal-pro/raw/master/logo2en.png]https://gitee.com/gitsvn/ssh-terminal-pro/raw/master/logo2en.png
+https://gitee.com/gitsvn/ssh-terminal-pro/raw/master/logo2en.png
